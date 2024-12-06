@@ -8,19 +8,10 @@ This repository includes the following projects:
 
 ## 📁 Repository Structure  
 
-- **`project-1/`**: Contains [short description].  
-- **`project-2/`**: Contains [short description].  
-- **`project-3/`**: [etc.]   
+- **`chess/`**: not finished yet.     
 
 ## 🛠️ Technologies  
 
 - **Programming Languages**: C++
 - **Frameworks/Tools**: Qt  
 - **Version Control**: Git and GitHub
-
-## 📞 Contact  
-
-Feel free to reach out to me:  
-
-- **Email**: []    
-- **GitHub Profile**: [https://github.com/tzuri61](https://github.com/tzuri61)  
