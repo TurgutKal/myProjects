@@ -25,6 +25,6 @@ bool King::isMoveValid(int nextRow, int nextColumn, GameBoard &board) {
 
 bool King::isCheckingKing(GameBoard &board)
 {
-
+    return false;
 }
 

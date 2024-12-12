@@ -39,5 +39,7 @@ bool Knight::isMoveValid(int nextRow, int nextColumn, GameBoard &board) {
 
 bool Knight::isCheckingKing(GameBoard &board)
 {
-
+    if (board.isKingCheck()) {
+        return true;
+    }
 }
